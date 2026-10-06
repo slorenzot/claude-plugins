@@ -19,7 +19,7 @@ Soulberto Lorenzo <slorenzot@gmail.com>
 ### Desde el marketplace (recomendado)
 
 ```bash
-claude plugin marketplace add slorenzot/usage-band
+claude plugin marketplace add slorenzot/claude-plugins
 claude plugin install usage-band@slorenzot
 ```
 
