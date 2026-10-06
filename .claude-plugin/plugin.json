@@ -1,0 +1,11 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Banda sobre el prompt de Claude Code con el uso de los límites y su reinicio, el contexto, el tiempo de caché y los siguientes pasos sugeridos. Requiere Claude Code 2.1.286 o superior.",
+  "author": {
+    "name": "Soulberto Lorenzo",
+    "email": "slorenzot@gmail.com"
+  },
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

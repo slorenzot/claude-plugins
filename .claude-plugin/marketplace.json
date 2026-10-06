@@ -1,0 +1,14 @@
+{
+  "name": "slorenzot",
+  "owner": {
+    "name": "Soulberto Lorenzo"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./",
+      "description": "Banda sobre el prompt de Claude Code con el uso de los límites y su reinicio, el contexto, el tiempo de caché y los siguientes pasos sugeridos. Requiere Claude Code 2.1.286 o superior."
+    }
+  ],
+  "description": "Plugins y Mods para Claude Code de Soulberto Lorenzo"
+}
