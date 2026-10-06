@@ -18,8 +18,6 @@ Soulberto Lorenzo <slorenzot@gmail.com>
 
 ### Desde el marketplace (recomendado)
 
-El repositorio es privado: antes necesitas acceso a la cuenta `slorenzot` en GitHub (por ejemplo con `gh auth login` o una clave SSH).
-
 ```bash
 claude plugin marketplace add slorenzot/usage-band
 claude plugin install usage-band@slorenzot
